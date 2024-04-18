@@ -1,0 +1,20 @@
+#welcome {
+    font-family : monospace;
+    font-size: 50px;
+}
+
+body {
+    background: linear-gradient(rgb(0, 98, 255), rgb(112, 229, 229), rgb(70, 195, 118) );
+}
+
+#user_name{
+    margin-top: 10px;
+	float: none;
+	border-radius: 15px;
+	width: 700px;
+	padding:10px;
+}
+
+#login_button{
+    margin-top: 10px;
+}
